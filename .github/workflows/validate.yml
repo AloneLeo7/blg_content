@@ -1,0 +1,14 @@
+name: Проверка каталога
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Проверка releases.json и artists.json
+        run: python3 .github/validate_catalog.py
