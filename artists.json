@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Alone Leo",
+    "photo": null,
+    "bio": "Демо-биография артиста. Замените на реальный текст в artists.json.",
+    "donate_url": "https://example.com/donate/alone-leo",
+    "socials": {
+      "telegram": "https://t.me/example",
+      "instagram": "https://instagram.com/example"
+    }
+  },
+  {
+    "name": "lil x21",
+    "photo": null,
+    "bio": "Демо-биография артиста.",
+    "donate_url": null,
+    "socials": {
+      "telegram": "https://t.me/example"
+    }
+  }
+]

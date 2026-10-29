@@ -1,0 +1,114 @@
+[
+  {
+    "id": "alb-001",
+    "title": "Demo Album",
+    "artist": "Alone Leo, lil x21",
+    "release_date": "2026-03-10T00:00:00+03:00",
+    "type": "release",
+    "cover_thumb": "https://picsum.photos/seed/blg1/500",
+    "cover_full": "https://picsum.photos/seed/blg1/1600",
+    "tracks": [
+      {
+        "track_id": "trk-001",
+        "title": "Demo Track",
+        "duration": "06:12",
+        "is_explicit": true,
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "ttml_url": "assets/lyrics/demo.ttml"
+      },
+      {
+        "track_id": "trk-002",
+        "title": "Second Gear",
+        "duration": "05:46",
+        "is_explicit": false,
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "ttml_url": null
+      },
+      {
+        "track_id": "trk-003",
+        "title": "Solo Cut",
+        "artist": "Alone Leo",
+        "duration": "05:03",
+        "is_explicit": true,
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "ttml_url": null
+      }
+    ]
+  },
+  {
+    "id": "alb-002",
+    "title": "ты шооо",
+    "artist": "lil x21",
+    "release_date": "2026-08-01T00:00:00+03:00",
+    "type": "release",
+    "cover_thumb": "https://picsum.photos/seed/blg2/500",
+    "cover_full": "https://picsum.photos/seed/blg2/1600",
+    "tracks": [
+      {
+        "track_id": "trk-004",
+        "title": "всмысле",
+        "duration": "07:05",
+        "is_explicit": false,
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "ttml_url": null
+      }
+    ]
+  },
+  {
+    "id": "alb-003",
+    "title": "Snippets Vol. 1",
+    "artist": "Alone Leo",
+    "release_date": "2026-09-15T00:00:00+03:00",
+    "type": "snippet",
+    "cover_thumb": "https://picsum.photos/seed/blg3/500",
+    "cover_full": "https://picsum.photos/seed/blg3/1600",
+    "tracks": [
+      {
+        "track_id": "trk-005",
+        "title": "Snippet 01",
+        "duration": "00:45",
+        "is_explicit": true,
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "ttml_url": null
+      }
+    ]
+  },
+  {
+    "id": "alb-004",
+    "title": "Future Drop",
+    "artist": "Alone Leo, lil x21",
+    "release_date": "2027-01-01T00:00:00+03:00",
+    "type": "release",
+    "cover_thumb": "https://picsum.photos/seed/blg4/500",
+    "cover_full": "https://picsum.photos/seed/blg4/1600",
+    "tracks": [
+      {
+        "track_id": "trk-006",
+        "title": "Locked Until 2027",
+        "duration": "04:20",
+        "is_explicit": true,
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "ttml_url": null
+      }
+    ]
+  },
+  {
+    "id": "alb-005",
+    "title": "Vault Tape",
+    "artist": "lil x21, Alone Leo",
+    "release_date": "2026-06-01T00:00:00+03:00",
+    "type": "unreleased",
+    "cover_thumb": "https://picsum.photos/seed/blg5/500",
+    "cover_full": "https://picsum.photos/seed/blg5/1600",
+    "tracks": [
+      {
+        "track_id": "trk-007",
+        "title": "Leaked Demo",
+        "duration": "03:30",
+        "is_explicit": true,
+        "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "ttml_url": null
+      }
+    ]
+  }
+]
